@@ -21,10 +21,10 @@ nav_order: 3
 
 * Stephane Rivaud - Post-doc - ISIR (Sorbonne université) - 2022
 * Adel Nabli - PhD Student - ISIR (Sorbonne université) - 2022
+* Louis Fournier - PhD Student
 
 ---
 
 ### External collaborators
 
 * Mickael Eickenberg - Post-doc - Flatiron Institute [homepage] 
-* Louis Fournier - PhD Student 

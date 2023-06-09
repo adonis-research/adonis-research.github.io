@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-24
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Two papers accepted at ICML 2023, on <a href="https://arxiv.org/abs/2208.00779">accelerated gossip</a> and forward gradient methods.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-06-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Welcoming Belilovsky Lab director, <a href="http://eugenium.github.io/">Eugene Belilovsky</a>, for a month.
