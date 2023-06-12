@@ -27,4 +27,4 @@ nav_order: 3
 
 ### External collaborators
 
-* Mickael Eickenberg - Post-doc - Flatiron Institute - [Homepage](https://www.simonsfoundation.org/people/michael-eickenberg/)
+* Mickael Eickenberg - Research scientist - Flatiron Institute - [Homepage](https://www.simonsfoundation.org/people/michael-eickenberg/)
