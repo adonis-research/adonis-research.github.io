@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Louis Fournier gave a talk on Forward Gradients to the MLIA team.
+Louis Fournier gave a talk on <a href="https://hal.science/hal-04119829">Forward Gradients</a> to the MLIA team.
