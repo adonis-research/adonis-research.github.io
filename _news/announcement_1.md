@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at ICML 2023, on <a href="https://arxiv.org/abs/2208.00779">accelerated gossip</a> and forward gradient methods.
+Two papers accepted at ICML 2023, on <a href="https://arxiv.org/abs/2208.00779">accelerated gossip</a> and <a href="https://hal.science/hal-04119829">forward gradient methods</a>.
