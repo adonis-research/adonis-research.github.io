@@ -33,3 +33,6 @@ social: false  # includes social icons at the bottom of the page
 
 The ADONIS project explores asynchronous decentralized optimization for both convex and non-convex problems. In the convex setting, we can solve well-posed mathematical problems and obtain theoretical guarantees regarding the convergence of optimization algorithms. However, deep learning poses a unique challenge in the non-convex setting, where practical performance often deviates significantly from theoretical predictions. In light of this, the ADONIS project adopts a principled approach to optimization research, guided by practical considerations and real-world applications.
 
+### Job offers
+
+We are currently proposing an [internship](https://edouardoyallon.github.io/internship_phd_offer_2023.pdf) on Adaptive optimization for Decentralized DNNs.
